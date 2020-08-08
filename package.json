@@ -5,9 +5,9 @@
   "license": "MIT",
   "description": "CMake module provides lcov based coverage calculation target",
   "keywords": [
-    "gc",
-    "defer",
-    "garbage collector"
+    "c",
+    "testing",
+    "coverage"
   ],
   "src": [
     "coverage.cmake"
