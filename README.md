@@ -5,7 +5,7 @@ CMake module provides `lcov` based coverage calculation target
 ## Usage
 
 Assuming your tests are in the `$PROJECT_SOURCE_DIR/tests` directory. Add
-`Coverage.cmake` into project subdirectory `cmake` and put this lines into
+`coverage.cmake` into project subdirectory `cmake` and put this lines into
 your CMakeLists.txt:
 
 ```cmake
