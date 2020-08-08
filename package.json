@@ -1,0 +1,15 @@
+{
+  "name": "lcov",
+  "repo": "cmake-modules/lcov",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "CMake module provides lcov based coverage calculation target",
+  "keywords": [
+    "gc",
+    "defer",
+    "garbage collector"
+  ],
+  "src": [
+    "coverage.cmake"
+  ]
+}
